@@ -118,8 +118,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or support, please contact:
 
-- **Email**: gm.officeofkb@gmail.com
-- **GitHub**: [your-github-profile](https://github.com/yourusername)
+- **Email**: bajpaikrishna715@gmail.com
+- **GitHub**: https://github.com/bajpaikrishna/
 
 ---
 
